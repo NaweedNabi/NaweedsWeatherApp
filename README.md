@@ -32,4 +32,4 @@ THEN I am again presented with current and future conditions for that city
 
 https://naweednabi.github.io/NaweedsWeatherApp/
 
-![screen shot](./assets/weatherAppSS.jpg)
+![screen shot](/assets/weatherAppSS.jpg)
